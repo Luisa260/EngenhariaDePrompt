@@ -1,5 +1,5 @@
 # EngenhariaDePrompt
-_Disciplina do Curso de Ciência da computação (2026_1)
+# Disciplina do Curso de Ciência da computação (2026_1)
 # Missão 01
 
 - **Crie um prompt simples**
